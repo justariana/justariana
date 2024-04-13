@@ -13,12 +13,6 @@ Currently, I am working with HTML and CSS. My name is Ariana Silva, I'm 29 years
 [![HTML5](https://img.shields.io/badge/html5-orange?style=flat-square&logo=html5&logoColor=white)](#) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-gray?style=flat-square&logo=javascript&logoColor=yellow)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PhilipeeX&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PhilipeeX&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipeeX&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 ### I have at least a little bit of knowledge with: 👇
 <p>
